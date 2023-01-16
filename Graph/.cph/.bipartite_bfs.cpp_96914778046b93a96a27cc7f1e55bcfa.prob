@@ -1,0 +1,1 @@
+{"name":"Local: bipartite_bfs","url":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\bipartite_bfs.cpp","tests":[{"id":1673759348851,"input":"7 7\n1 2\n2 3\n2 5\n3 7\n7 4\n5 4\n4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\bipartite_bfs.cpp","group":"local","local":true}

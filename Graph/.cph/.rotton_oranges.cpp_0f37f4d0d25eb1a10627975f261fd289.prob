@@ -1,0 +1,1 @@
+{"name":"Local: rotton_oranges","url":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\rotton_oranges.cpp","tests":[{"id":1673515674655,"input":"3 3\n0 1 2\n0 1 2\n2 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\rotton_oranges.cpp","group":"local","local":true}

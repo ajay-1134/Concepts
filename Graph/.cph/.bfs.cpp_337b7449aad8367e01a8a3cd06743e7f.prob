@@ -1,0 +1,1 @@
+{"name":"Local: bfs","url":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\bfs.cpp","tests":[{"id":1673280019680,"input":"8 8\n1 2\n1 6\n2 3\n2 4\n6 7\n6 8\n4 5\n7 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\bfs.cpp","group":"local","local":true}
