@@ -1,0 +1,1 @@
+{"name":"Local: word_ladder1","url":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\word_ladder1.cpp","tests":[{"id":1674210202095,"input":"5\nhot\ndot\ndog\nlot\nlog\nhit\ncog","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\word_ladder1.cpp","group":"local","local":true}

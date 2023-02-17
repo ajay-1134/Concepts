@@ -1,0 +1,1 @@
+{"name":"Local: alien_dictionary_topo_sot","url":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\alien_dictionary_topo_sot.cpp","tests":[{"id":1674049315307,"input":"5 5\nbaa\nabcd\nabca\ncab\ncad","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\alien_dictionary_topo_sot.cpp","group":"local","local":true}
