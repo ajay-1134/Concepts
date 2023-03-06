@@ -1,0 +1,1 @@
+{"name":"Local: maximum_connected_graph_dsu","url":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\maximum_connected_graph_dsu.cpp","tests":[{"id":1676997876257,"input":"2\n1 1\n0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ajay\\Desktop\\Concepts\\Graph\\maximum_connected_graph_dsu.cpp","group":"local","local":true}
