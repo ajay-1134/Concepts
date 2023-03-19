@@ -1,0 +1,1 @@
+{"name":"Local: reverse_linkedlist","url":"c:\\Users\\Ajay\\Desktop\\Concepts\\LinkedList\\reverse_linkedlist.cpp","tests":[{"id":1678437238113,"input":"5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ajay\\Desktop\\Concepts\\LinkedList\\reverse_linkedlist.cpp","group":"local","local":true}
